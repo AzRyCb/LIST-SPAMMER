@@ -7,6 +7,9 @@ kumpulan berbagai sc spam dari berbagai sumber
 - [Brutal-scw](https://github.com/Lord-Ammar/Brutal-SCW)
 - [Brutal-wa](https://github.com/Lord-Ammar/Brutal-WA)
 - [Brutal-sms](https://github.com/Lord-Ammar/Brutal-SMS)
+- [Call-proyek](https://github.com/Lord-Ammar/Call-Project)
+- [Spam-Unlimited](https://github.com/Lord-Ammar/Spam-Unlimited)
+- [sms-call](https://github.com/Lord-Ammar/sms-call)
 - []()
 
 ## letta sama
